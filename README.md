@@ -29,6 +29,8 @@ Web-based suite of tools to increase personal productivity.
 
 
 ```javascript
+// pseudocode
+
   item.prototype = {
     uuid: #,
     name: '',
@@ -59,4 +61,5 @@ Web-based suite of tools to increase personal productivity.
 
 
 https://blog.amazingmarvin.com/three-simple-rules-writing-great-tasks-to-do-list/
+
 https://blog.amazingmarvin.com/break-large-projects-tasks-bite-sized-tasks/
