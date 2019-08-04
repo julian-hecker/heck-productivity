@@ -36,6 +36,7 @@ Web-based suite of tools to increase personal productivity.
     name: '',
     description: '',
     notes: '',
+    location: '',
     priority: #,
     dependencies: [],
     backburner: false,
